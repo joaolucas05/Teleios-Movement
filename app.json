@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5dea8c4a-e7cd-46e0-af3c-d330f28768cb"
+      }
+    },
+    "owner": "jhonlucas05"
   }
 }
