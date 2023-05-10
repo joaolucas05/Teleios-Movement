@@ -7,14 +7,6 @@
   <p>
     <h1><b>Teleios Movement - Open Source App</b></h1>
   </p>
-  <p>
-  
-[![Build Status](https://travis-ci.com/joaolucas05/Teleios.svg?branch=master)](https://travis-ci.com/joaolucas05/Teleios)
-[![NPM version](https://img.shields.io/npm/v/Teleios?style=flat-square)](https://img.shields.io/npm/v/Teleios?style=flat-square)
-[![Package size](https://img.shields.io/bundlephobia/min/Teleios)](https://img.shields.io/bundlephobia/min/Teleios)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-
-  </p>
 </div>
 
 ## O que é Teleios?
