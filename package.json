@@ -1,11 +1,7 @@
 {
   "name": "teleios-movement",
-<<<<<<< HEAD
-  "version": "1.0.0",
-=======
   "version": "1.0.1",
   "main": "node_modules/expo/AppEntry.js",
->>>>>>> 90cdc754c8b7aeb4282e28c97ebc46192ad621ae
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
