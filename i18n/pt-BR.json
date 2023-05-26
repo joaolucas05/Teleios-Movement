@@ -1,0 +1,16 @@
+{
+    "password":"Senha",
+    "login":"Entrar",
+    "loginSignUp":"Você já tem uma conta? Faça Login",
+    "register":"Cadastrar-se",
+    "loginscreenmessage":"Bem-Vindo ao Teleios Movement",
+    "fullname": "Nome Completo",
+    "church": "Igreja",
+    "phone": "Telefone",
+    "city":"Cidade",
+    "state":"Estado",
+    "country": "Pais",
+    "yes": "Sim",
+    "no": "Não",
+    "discipler": "Discipulador"
+}

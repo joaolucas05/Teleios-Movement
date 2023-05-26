@@ -1,0 +1,16 @@
+{
+    "password":"Password",
+    "login":"Sign In",
+    "loginSignUp":"You Already Have Account? Sign-in",
+    "register":"Sign Up",
+    "loginscreenmessage":"Wellcome to Teleios Movement",
+    "fullname": "Full Name",
+    "church": "Church",
+    "phone": "Phone",
+    "city":"City",
+    "state":"State",
+    "country": "Country",
+    "yes": "Yes",
+    "no": "No",
+    "discipler": "Discipler"
+}
