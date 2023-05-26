@@ -38,8 +38,4 @@ Muito obrigado a todos que estão colaborando para tornar este projeto
   <tr>
     <td align="center"><a href="https://joaolucas.bohr.io/"><img src="https://avatars.githubusercontent.com/u/40373349?s=460&v=4" width="100px;" alt="Tostee Lucas"/><br /><sub><b>João Lucas</b></sub></a><br /><a href="#" title="Code">💻</a></td>
   </tr>
-<<<<<<< HEAD
 </table>
-=======
-</table>
->>>>>>> 90cdc754c8b7aeb4282e28c97ebc46192ad621ae
